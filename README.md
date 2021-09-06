@@ -1,5 +1,7 @@
 # Pick-and-place
 
+仅供学术交流学习，请勿私自发表或用于商业
+
 Matlab Robotics Toolbox
 
 QQ 1303104430
